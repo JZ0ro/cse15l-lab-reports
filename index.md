@@ -17,13 +17,12 @@ callouts:
 
 > How to get good
 1. subscribe to Z0rocity on youtube!!!!
-2. 'Download cheats' or play league of legends instead
-3. blame controller players for aim assist
+2. blame controller players for aim assist
 
 ```
 secret tip, watch streamers pull off nutty plays,
 get inspired, launch game, play
 realize your actually really bad
 ```
-
+`twitch.tv\pokimane`
 
