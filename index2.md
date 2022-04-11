@@ -3,6 +3,8 @@
 
 [Link to download game](https://www.ea.com/games/apex-legends/play-now-for-free)
 
+[Lab Report 1] (https://JZ0ro.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
+
 ## HE'S ONE
 ![Image](https://i.kym-cdn.com/photos/images/original/001/468/433/1bd.jpg)
 
