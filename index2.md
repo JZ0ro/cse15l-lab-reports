@@ -17,7 +17,7 @@ callouts:
 * I need a magazine for my **bow**
 * Why aren't we playing valorant
 
-> How to get good
+> How to get good!!!
 1. subscribe to Z0rocity on youtube!!!!
 2. 'Download cheats' or play league of legends instead
 3. blame controller players for aim assist
