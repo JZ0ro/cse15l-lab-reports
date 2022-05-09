@@ -19,7 +19,6 @@ callouts:
 ***
 * He unjumped!!!!
 * I need a magazine for my **bow**
-* Why aren't we playing valorant
 
 > How to get good!!!
 1. subscribe to Z0rocity on youtube!!!!
