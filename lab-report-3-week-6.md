@@ -26,3 +26,20 @@ We can provide access to Github from our ieng6 account via a SSH key which not o
 
 *  Key in ieng6 account:
 ![linuxKey](linuxDirectoryOfKey.png)
+
+* Running git commands whilst logged into ieng6 account
+![ssOfRemoteCommit](ssOfRemoteCommitting.png)
+
+* Link to resulting commit [title](https://github.com/JZ0ro/markdown-parser/commit/dc4a279d07887ae1233ede566a3de5d6787fe54f)
+
+> 3. Copying whole directories with scp -r
+
+We can copy entire directories with scp-r. This command allows us to recursively copy a directory and its subsequent files. In the case of the current directory: markdown-parse, we are capable of copying the entire directory 
+
+* Screenshot of copying markdown directory
+![Image](ssOneOfCopyRepo.png)
+
+* Compiling and running markdwn-parser tests on ieng6 account
+![Image](ssOfTesterRunOnRemote.png
+)
+
