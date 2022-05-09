@@ -12,7 +12,7 @@ To begin streaming lining the SSH configuration process, we had to first make an
 ![usingSSHAlias](updatedConfigAlias.png)
 
 
-With our SSH file created with the appropriate login information, we can simply use the ssh command along with the alias chose to log into our remote account and to copy
+With our SSH file created with the appropriate login information, we can simply use the ssh command along with the alias chosen to log into our remote account and to copy
 * Utilizing the ssh command to log into my account: ![sshToLogin](uppdatedSSHUsingAlias.png)
 
 * Copying a file into my account using an Alias ![copyingFileUsingAlias.png](copyingFileUsingAlias.png)  

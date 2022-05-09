@@ -7,6 +7,8 @@
 
 [Lab Report 2](https://JZ0ro.github.io/cse15l-lab-reports/lab-report-2-week-4.html)
 
+[Lab Report 3](https://JZ0ro.github.io/cse15l-lab-reports/lab-report-3-week-6.html)
+
 ## HE'S ONE 
 ![Image](https://i.kym-cdn.com/photos/images/original/001/468/433/1bd.jpg)
 
