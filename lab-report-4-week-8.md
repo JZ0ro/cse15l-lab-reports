@@ -69,7 +69,7 @@ When Snippet 2 is run through my tester method on my personal repo
  
  - ![](snippetTest3PersonalException.png)
 
- **Test for snippet 2 on the implementation reviewed in week 7 lab and results**
+ **Test for snippet 3 on the implementation reviewed in week 7 lab and results**
  - ![](updatedSnippetRev3.png)
 
  - ![](snippetRevException3.png)
