@@ -14,6 +14,7 @@
   
   When Snippet 1 is run through my tester method on my personal repo
   of markdown-parser, the following links should be outputted
+  
   - "`google.com", "google.com", "ucsd.edu"`
 
 ![](ssOfSnippet1.png)
@@ -37,8 +38,10 @@
 
   
 >Snippet 2
+
 When Snippet 2 is run through my tester method on my personal repo
   of markdown-parser, the following links should be outputted
+ 
   - `"a.com", "a.com(())", "example.com"`
 
 **Test for snippet 2 on my repo of mark-downparser and results**
@@ -55,8 +58,10 @@ When Snippet 2 is run through my tester method on my personal repo
  - I suspect that a small code change will be inadequate to make my program work for snippet 2 as a memory exception is thrown before my program can compare its output to the expected output. Because my program is running out of memory before a comparison can be made, my implementation of the parser file as a whole needs to be considered as my previous test md files were capable of being compared however the snippet md files were not. I suspect it is due to how I implemented my loops and the instanctiation of objects and variables.
 
  >Snippet 3
+ 
  When Snippet 3 is run through my tester method on my personal repo
  of markdown-parser, the following links should be outputted
+ 
  - `"https://www.twitter.com", "https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule", "(https://cse.ucsd.edu/"`
 
  **Test for snippet 3 on my repo of mark-downparser and results**
