@@ -11,6 +11,10 @@
 
 [Lab Report 4](https://JZ0ro.github.io/cse15l-lab-reports/lab-report-4-week-8.html)
 
+[Lab Report 5](https://JZ0ro.github.io/cse15l-lab-reports/lab-report-5-week-10.html)
+
+
+
 ## HE'S ONE 
 ![Image](https://i.kym-cdn.com/photos/images/original/001/468/433/1bd.jpg)
 
